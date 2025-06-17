@@ -1,18 +1,10 @@
-## Getting Started
+## Primeiro Projeto de Java Básico do Bootcamp Santander 2025 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A proposta inicial é criar um projeto `ContaBanco`, onde o usuário pode inserir dados a partir do terminal. O Sistema permite o input e output de dados e fornece uma mensagem final com os dados informados pelo usuário.
 
-## Folder Structure
+O projeto conta com a Classe `ContaTerminal.java`.
 
-The workspace contains two folders by default, where:
+Ao usuário é solicitado os seguintes dados: Nome; Agência, Conta e o Saldo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Após solicitado todos os dados, o sistema agradece pela criação da Conta Bancária, comunicando ao usuário os dados informatos a partir do terminal.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
