@@ -6,5 +6,5 @@ O projeto conta com a Classe `ContaTerminal.java`.
 
 Ao usuário é solicitado os seguintes dados: Nome; Agência, Conta e o Saldo.
 
-Após solicitado todos os dados, o sistema agradece pela criação da Conta Bancária, comunicando ao usuário os dados informatos a partir do terminal.
+Após solicitado todos os dados, o sistema agradece pela criação da Conta Bancária, comunicando ao usuário os dados informados a partir do terminal.
 
